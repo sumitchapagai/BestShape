@@ -23,7 +23,7 @@ export default function Home() {
         </p>
 
         <Link href="/start">
-          <Button size="lg" className="w-60 mt-16 py-7 text-xl animate__animated animate__infinite animate__pulse rounded-full shadow-lg mx-auto">Fillo tani</Button>
+          <Button size="lg" className="w-60 mt-16 py-7 text-xl animate__animated animate__infinite animate__pulse rounded-full shadow-lg mx-auto">Start Now</Button>
         </Link>
       </div>
     </div>
