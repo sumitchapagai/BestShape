@@ -7,21 +7,19 @@ export default function Home() {
       {/* header */}
       <div className="flex flex-col gap-6 lg:gap-12 text-center w-full mx-auto">
         <h1 className="text-4xl lg:text-6xl font-bold text-center leading-relaxed lg:leading-snug">
-          Krijo një program
+          Create a Full
           {' '}
-          <span className="text-sky-500">të plotë fitnesi 💪</span>
+          <span className="text-sky-500">Fitness Program 💪</span>
           {' '}
-          në
+          in
           {' '}
           <span className="text-sky-500">30</span>
           {' '}
-          sekonda ⏱
+          Seconds ⏱
         </h1>
 
         <p className="text-lg text-neutral-400 lg:px-24 mx-auto">
-          Nëse synoni të ndërtoni forcë, të humbni peshë ose të përmirësoni 
-          mirëqenien tuaj të përgjithshme, aplikacioni ynë do t&apos;ju ndihmojë 
-          të arrini qëllimet tuaja me lehtësi.
+         Unlock your potential and take charge of your fitness journey with our cutting-edge fitness program generator. Whether you're aiming to build strength, lose weight, or enhance your overall well-being, our intuitive app has you covered.
         </p>
 
         <Link href="/start">
