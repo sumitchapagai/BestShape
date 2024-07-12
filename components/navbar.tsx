@@ -60,7 +60,7 @@ export default function Navbar({ className }: { className: string }) {
       <div className="w-36 md:w-40 xl:w-60 flex justify-end">
         <Link href="/start">
           <Button size="lg" className="rounded-3xl">
-            Fillo tani
+            Get Started
           </Button>
         </Link>
       </div>
