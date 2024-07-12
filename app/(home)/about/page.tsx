@@ -4,52 +4,37 @@ export default function AboutPage() {
       <div className="space-y-12 text-md md:text-lg text-gray-500 pb-4 md:pb-8">
         <div className="space-y-2">
           <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-            💪 Programi i stërvitjes
+            💪 Workout Program
           </h2>
           <p>
-            Programet tona të stërvitjes janë krijuar për t&apos;ju ndihmuar
-            të arrini qëllimet tuaja të fitnesit shpejt dhe lehtë. Qoftë për
-            të ndërtuar muskuj, për të rritur qëndrueshmërinë ose për të
-            përmirësuar fitnesin tuaj të përgjithshëm, stërvitjet tona të larmishme
-            ju ofrojnë një regjim ushtrimesh të personalizuar që i përshtatet
-            nevojave dhe orarit tuaj.
+           Our tailored workout programs are designed to help you achieve your fitness goals efficiently and effectively. Whether you're aiming to build muscle, increase endurance, or improve overall fitness, our diverse range of workouts ensures that you have access to a comprehensive and personalized exercise regimen that fits your needs and schedule.
           </p>
         </div>
 
         <div className="space-y-2">
           <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-            🥗 Programi i dietës
+            🥗 Diet Program
           </h2>
           <p>
-            Arrini rezultate optimale me programet tona të personalizuara të dietës që plotësojnë 
-            stërvitjen tuaj. Ekspertët tanë të ushqimit kanë krijuar plane dietike për preferenca 
-            dhe qëllime të ndryshme fitnesi, duke ju ndihmuar të qëndroni në rrugën e duhur për 
-            shëndetin dhe mirëqenien tuaj.
+        Achieve optimal results with our personalized diet programs that complement your workout routine. Our nutrition experts have curated a range of diet plans that cater to different dietary preferences and fitness goals, ensuring that you stay on track with your health and wellness journey.
           </p>
         </div>
 
         <div className="space-y-2">
           <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-            📊 Analiza e peshës
+           📊 Weight Analytics
           </h2>
           <p>
-            Mbani veten në dijeni për përparimin tuaj me analizat tona të peshës të avancuara. 
-            Përballoni ndryshimet në peshë, vendosni qëllime të arritshme, dhe ndiqni udhëtimin 
-            tuaj të humbjes së peshës ose fitimit të muskujve. Analizat tona të detajuara ju 
-            ofrojnë informacion të rëndësishëm për të bërë vendime të informuara dhe përshtatje 
-            në programin tuaj të fitnesit.
+        Stay informed about your progress with our advanced weight analytics. Monitor your weight fluctuations, set achievable targets, and track your weight loss or muscle gain journey. Our detailed analytics provide you with valuable insights to help you make informed decisions and adjustments to your fitness program.
           </p>
         </div>
 
         <div className="space-y-2">
           <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-            🏋️‍♀️ Analiza e trupit
+            🏋️‍♀️ Body Composition Analytics
           </h2>
           <p>
-            Kuptoni trupin tuaj më mirë me analizat tona të detajuara të kompozitës së trupit. 
-            Ndjekni ndryshimet në masën e muskujve, përqindjen e yndyrës në trup dhe kompozitën 
-            e përgjithshme të trupit për të kuptuar progresin tuaj fizik. Analizat tona ju ndihmojnë 
-            të bëni zgjedhje të informuara dhe përshtatje për të përmirësuar rutinën tuaj të fitnesit.
+           Understand your body better with our in-depth body composition analytics. Track changes in your muscle mass, body fat percentage, and overall body composition to gain a comprehensive understanding of your physical progress. Our analytics empower you to make informed choices and adjustments to optimize your fitness routine.
           </p>
         </div>
       </div>
